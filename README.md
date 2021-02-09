@@ -1,2 +1,2 @@
 # CRUD-with-pure-javascript
-crud with pure javascript with some bootstrapping.
+crud with pure javascript/jquery with some bootstrapping.
