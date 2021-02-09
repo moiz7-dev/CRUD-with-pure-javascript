@@ -1,0 +1,48 @@
+body {
+    margin: 0 20px;
+}
+
+.container {
+    max-width: 292px;
+    border-radius: 7px;
+    background-color: #FFFDD0;
+}
+
+input {
+    width: 17em !important;
+}
+
+.table {
+    margin-top: 1px;
+}
+
+th,
+td {
+    text-align: center;
+    width: 1000px !important;
+}
+
+a {
+    cursor: pointer;
+}
+
+i {
+    margin: 0 10px;
+}
+
+#emailError {
+    color: red;
+    display: none;
+}
+
+h2  {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+.error  {
+    display: none;
+    color: red !important;
+    margin-left: 5px;
+}
